@@ -7,6 +7,7 @@ public class Tc2Test{
 	public void m2()
 	{
 		System.out.println("M2");
+		//
 	}
 	@Test
 	public void m4()
