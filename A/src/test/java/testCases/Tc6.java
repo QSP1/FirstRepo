@@ -9,7 +9,7 @@ public class Tc6 {
 	public void m6()
 	{
 		Reporter.log("M6 Running");
-		Reporter.log("M6 Walking");
+		Reporter.log("M6 Sleeping");
 	}
 	
 
